@@ -1,0 +1,5 @@
+setup.py
+FirstSparkApp.egg-info/PKG-INFO
+FirstSparkApp.egg-info/SOURCES.txt
+FirstSparkApp.egg-info/dependency_links.txt
+FirstSparkApp.egg-info/top_level.txt
